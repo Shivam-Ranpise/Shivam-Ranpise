@@ -26,5 +26,5 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/Shivam-Ranpise/Shivam-Ranpise/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shivam-Ranpise/Shivam-Ranpise/blob/output/github-contribution-grid-snake.gif)
 
