@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-
-- 🌱 I’m currently learning **Java Development and Web Development.**
 - <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p>
-
+  </p>
+- 🌱 I’m currently learning **Java Development and Web Development.**
 
 - 👯 I’m looking to collaborate on **any Web Development Projects which will help me to grow my skills as a Web Developer.**
 
