@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#538b01;">Shivam</span></h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Shivam. :blush:</span></h1>
+
+
+
 <h2 align="center">A passionate Java developer from India</h2>
 
    <p align="center">
