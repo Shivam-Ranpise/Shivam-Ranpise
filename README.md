@@ -5,8 +5,10 @@
 <h2 align="center">A passionate Java developer from India</h2>
 
    <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">
   </p>
+
+ 
   
  - 🌱 I’m currently learning **Java Development and Web Development.**
 
