@@ -34,7 +34,7 @@
 <img src=	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/shivamrack7n" target="_blank">
-<img src=https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 </a> 
 
 <br>
