@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any Web Development Projects which will help me to grow my skills as a Web Developer.**
 
-- 📄 Know about my experiences <a https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing>Here</a>
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, PHP, MySQL, React, Machine Learning.**
 
