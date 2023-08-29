@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any Web Development Projects which will help me to grow my skills as a Web Developer.**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank)
+- 📄 **[Know about my experiences]**
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, PHP, MySQL, React, Machine Learning.**
 
@@ -60,5 +60,7 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>
 <br><br>
+
+[Know about my experiences]: https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank
 
  ![](https://komarev.com/ghpvc/?username=Shivam-Ranpise&color=ff69b4)
