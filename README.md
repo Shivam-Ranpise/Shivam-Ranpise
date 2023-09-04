@@ -1,14 +1,12 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Shivam. :blush:</span></h1>
 
-
-
 <h2 align="center">A passionate Java developer from India</h2>
-
-   <p align="center">
-  <img src= "https://media.giphy.com/media/1forTCExMq1F3M2JjS/giphy.gif">
+   <p align="center" >
+  <img height="370px" src= "https://user-images.githubusercontent.com/99407071/265520684-79dbe8e4-155d-410d-9bcd-020545a559b8.gif">
   </p>
 
- 
+
+
  
  - 🌱 I’m currently learning **Java Development and Web Development.**
 
