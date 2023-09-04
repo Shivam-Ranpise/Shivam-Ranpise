@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate Java developer from India</h2>
    <p align="center" >
-  <img height="370px" src= "https://user-images.githubusercontent.com/99407071/265520684-79dbe8e4-155d-410d-9bcd-020545a559b8.gif">
+  <img height="300px" src= "https://user-images.githubusercontent.com/99407071/265520684-79dbe8e4-155d-410d-9bcd-020545a559b8.gif">
   </p>
 
 
