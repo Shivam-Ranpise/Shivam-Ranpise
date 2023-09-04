@@ -8,7 +8,7 @@
   </p>
 
 
-
+![](https://komarev.com/ghpvc/?username=Shivam-Ranpise&color=ff69b4)
  
  - 🌱 I’m currently learning **Java Development and Web Development.**
 
