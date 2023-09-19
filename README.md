@@ -63,4 +63,3 @@
 
 [Know about my experiences]: https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank
 
- ![](https://komarev.com/ghpvc/?username=Shivam-Ranpise&color=ff69b4)
