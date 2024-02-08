@@ -63,3 +63,6 @@
 
 [Know about my experiences]: https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/Shivam-Ranpise/Shivam-Ranpise/blob/output/github-contribution-grid-snake.svg)
