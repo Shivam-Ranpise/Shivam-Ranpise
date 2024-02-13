@@ -1,6 +1,6 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <span style="color:yellow;">Shivam :blush:</span></h1>
 
-# <img style= "margin-left:120px" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px"/> &nbsp; <span> A passionate Java developer from India </span> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px"/> &nbsp; <span> A passionate Java developer from India </span> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
  
   
    <p align="center" >
@@ -63,6 +63,5 @@
 
 [Know about my experiences]: https://drive.google.com/file/d/1ajTs6aFsco74sFuzkrlj913djK4bZGoz/view?usp=sharing"_blank
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/Shivam-Ranpise/Shivam-Ranpise/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shivam-Ranpise/Shivam-Ranpise/blob/output/github-contribution-grid-snake.svg)
